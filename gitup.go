@@ -3,5 +3,5 @@ package main
 import "github.com/fatih/color"
 func main() {
     // fmt.Println("hello world")
-    color.Green("hello world")
+    color.Green("hello world!")
 }
